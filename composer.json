@@ -1,0 +1,21 @@
+{
+    "name": "valerio/valerio",
+    "description": "Proyecto para apis",
+    "authors": [
+        {
+            "name": "Sergio Enrique Vargas",
+            "email": "sergioenrique@me.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "conekta/conekta-php": "dev-master"
+    },
+    "autoload": {
+        "classmap": ["conekta/"]
+    }
+}

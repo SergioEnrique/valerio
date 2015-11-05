@@ -1,6 +1,6 @@
 <?php
 
-namespace Valerio;
+namespace Valerio\Conekta;
 
 //srequire_once dirname(__FILE__).'/../../vendor/conekta/conekta-php/lib/Conekta.php';
 
